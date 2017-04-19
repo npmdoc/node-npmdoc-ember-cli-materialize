@@ -1,9 +1,14 @@
-# api documentation for  [ember-cli-materialize (v0.21.0)](https://github.com/mike-north/ember-cli-materialize#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-ember-cli-materialize.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-ember-cli-materialize) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-ember-cli-materialize.svg)](https://travis-ci.org/npmdoc/node-npmdoc-ember-cli-materialize)
+# npmdoc-ember-cli-materialize
+
+#### api documentation for  [ember-cli-materialize (v0.21.0)](https://github.com/mike-north/ember-cli-materialize#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-ember-cli-materialize.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-ember-cli-materialize) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-ember-cli-materialize.svg)](https://travis-ci.org/npmdoc/node-npmdoc-ember-cli-materialize)
+
 #### An ember-cli addon for using Materialize (CSS Framework based on Material Design) in Ember applications.
 
-[![NPM](https://nodei.co/npm/ember-cli-materialize.png?downloads=true)](https://www.npmjs.com/package/ember-cli-materialize)
+[![NPM](https://nodei.co/npm/ember-cli-materialize.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/ember-cli-materialize)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-ember-cli-materialize/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-ember-cli-materialize_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-ember-cli-materialize/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-ember-cli-materialize/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-ember-cli-materialize/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-ember-cli-materialize/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-ember-cli-materialize/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-ember-cli-materialize/build/screenCapture.npmPackageListing.svg)
 
@@ -18,7 +23,6 @@
 {
     "author": {
         "name": "Mike North",
-        "email": "michael.l.north@gmail.com",
         "url": "http://mike.works"
     },
     "bugs": {
@@ -98,17 +102,14 @@
     "license": "MIT",
     "maintainers": [
         {
-            "name": "sgasser",
-            "email": "stefangasser.info@gmail.com"
+            "name": "sgasser"
         },
         {
-            "name": "northm",
-            "email": "michael.l.north@gmail.com"
+            "name": "northm"
         }
     ],
     "name": "ember-cli-materialize",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/mike-north/ember-cli-materialize.git"
@@ -121,17 +122,6 @@
     "version": "0.21.0"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module ember-cli-materialize](#apidoc.module.ember-cli-materialize)
-1.  string <span class="apidocSignatureSpan">ember-cli-materialize.</span>name
-
-
-
-# <a name="apidoc.module.ember-cli-materialize"></a>[module ember-cli-materialize](#apidoc.module.ember-cli-materialize)
 
 
 
